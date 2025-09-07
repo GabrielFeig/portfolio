@@ -1,1 +1,1 @@
-O codigo se trata de um banco de dados simples para uma empresa, sendo um trabalho feito para a faculdade no primeiro semestre
+Aqui voce pode encontrar alguns dos trabalhos que eu ja fiz na faculdade, melhorando cada dia mais minhas habilidades
