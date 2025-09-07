@@ -1,0 +1,1 @@
+O codigo se trata de um banco de dados simples para uma empresa, sendo um trabalho feito para a faculdade no primeiro semestre
